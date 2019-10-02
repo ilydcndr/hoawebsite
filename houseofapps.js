@@ -7,7 +7,7 @@
    interval: 1
  })
  
- /*
+ /*  CANCELED!
  var kaynaklar =[
     "vakiffoto.html",
     "dominosfoto.html",
