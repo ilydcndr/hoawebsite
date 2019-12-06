@@ -17,8 +17,6 @@
   function yoket(){
      var wearehere=document.getElementById("wearehere");
      wearehere.style.display="none";
-
-     awgdbrthn deneme commiti
   }
 
  i=0;
