@@ -1,4 +1,4 @@
-*{
+/**{
     margin: 0;
     padding: 0;
 }
@@ -300,8 +300,71 @@ button {
   #wearehere{
     cursor: pointer; 
     text-decoration: none ;
+  }*/
+  .timeline{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+     height: 100%;
   }
- 
+
+.yazi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height:100%;
+    width:100%;
+   font-family: monospace;
+   font-weight: normal;
+   font-size:larger
+}
+.resim{
+    text-align: center;
+    object-fit: contain;
+     width: 100%;
+      height: 100%;
+}
+.imgclass{
+    object-fit: contain;
+    width: 100%;
+     height: 100%;
+}
+
+
+  .bizkimizdiv{
+    background: url("/h.app.foto/office-photo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+   
+}
+.sectionlinkleri{
+    font-family: 'Courier New';
+    text-decoration: none;
+    font-weight:bolder;
+    display: inline-block;
+    white-space: pre;
+    float: left;
+    color:white;
+}
+#baslangicsayfasi{
+    width: 100%;
+    background:url("/h.app.foto/hoa-background.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    object-fit: contain;
+    height: 100%;
+  
+}
+.sectionlinkleri:hover{
+    text-decoration: none;
+    text-shadow: 2px 2px 0.9px cornsilk;
+    color:white;
+}
+
   
   
   
