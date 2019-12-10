@@ -349,6 +349,7 @@ button {
     white-space: pre;
     float: left;
     color:white;
+    text-align: center;
 }
 #baslangicsayfasi{
     width: 100%;
@@ -363,6 +364,17 @@ button {
     text-decoration: none;
     text-shadow: 2px 2px 0.9px cornsilk;
     color:white;
+}
+.cerceveicidivler{
+    width: 50%;
+    height: 650px;
+    float: left;
+    display: inline-block;
+
+}
+#vakifemeklilikslayt1,#vakifemeklilikslayt2{
+    background-color: #E89600
+
 }
 
   
