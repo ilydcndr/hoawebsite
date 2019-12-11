@@ -74,7 +74,6 @@
     font-family: 'Courier New';
     text-decoration: none;
     font-weight:bolder;
-    display: inline-block;
     white-space: pre;
     float: left;
     color:white;
@@ -95,7 +94,6 @@
     color:white;
 }
 .cerceveicidivler{
-    width: 50%;
     height: 650px;
     float: left;
     display: inline-block;
@@ -205,6 +203,7 @@ color: white !important;
   margin-right: 0px !important;
   margin-left: 0px   !important; 
 }
+
   
 
   
